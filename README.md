@@ -38,4 +38,5 @@ python main.py
 - Horse images: Your own or free sprite resources
 
 ## License
+Copyright (c) 2025, Created by F3rren - Samuele Alessandro Di Silvestri
 This project is for educational and personal use. Replace images and sounds with your own or those you have rights to use.
